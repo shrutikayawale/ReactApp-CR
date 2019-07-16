@@ -1,0 +1,8 @@
+.Footer {
+    width: auto;
+    margin: auto;
+    border: 1px solid #eee;
+    text-align: center;
+    box-shadow: #eee;
+    padding: 25px;
+}
